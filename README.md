@@ -2,5 +2,5 @@
 
 A new Flutter project.
 
- <img src="https://gifyu.com/image/Skj6T
-"/>
+ <img src="./assets\images\gif_map.gif"/>
+
