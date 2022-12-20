@@ -1,5 +1,7 @@
 # map_tracker
 
+A flutter web project
+
  <img src="./assets\images\gif_map.gif"/>
 
  This project demonstrate a flutter map that recives location data from robots using websocket protocol and display location data on a map 
